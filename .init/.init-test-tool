@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/live-event-metadata-dashboard-91695-91704/metadata_panel_frontend"
+}
